@@ -1,0 +1,3 @@
+he aprendido a hacer carpetas 
+he aprendido a subir cosas a git hub
+y he aprendido a usar comandos
